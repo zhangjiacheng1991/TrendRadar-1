@@ -94,22 +94,7 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false                  # 禁用
-    - id "cnvd-finance"
-      name: "CNVD-热点"
-      url: "https://www.cnvd.org.cn/webinfo/list?type=2"
-      enable: true
-    - id "ldkz-finance"
-      name: "漏洞盒子-WEB安全"
-      url: "https://www.freebuf.com/articles/web"
-      enable: true
-    - id "mi-finance"
-      name: "小米SRC-公告"
-      url: "https://sec.xiaomi.com/#/notice"
-      enable: true
-    - id "baidu-finance"
-      name: "百度SRC-安全活动"
-      url: "https://bsrc.baidu.com/v2/#/activity/list?language=zh"
-      enable: true
+      
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
